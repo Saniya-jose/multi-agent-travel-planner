@@ -16,7 +16,6 @@ A Multi-Agent Travel Planner built using Python and Google ADK. The system uses 
 - GitHub
 
 ## Project Structure
-## Project Structure
 
 text
 travel_agent/
